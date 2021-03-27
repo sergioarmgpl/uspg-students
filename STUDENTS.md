@@ -1,11 +1,11 @@
-1 jonas
-2 majo
-3 gerson
-4 sofi
-5 satis
-6 maselli
-7 franz
-8 francisco
-9 sergio
-10 sergio
- :)
+1 jonas. 
+2 majo. 
+3 gerson. 
+4 sofi. 
+5 satis. 
+6 maselli. 
+7 franz. 
+8 francisco. 
+9 sergio. 
+10 sergio. 
+ :) :(
